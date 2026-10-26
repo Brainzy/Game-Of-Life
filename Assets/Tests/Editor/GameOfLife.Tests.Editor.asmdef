@@ -1,0 +1,6 @@
+{
+  "name": "GameOfLife.Tests.Editor",
+  "references": ["GameOfLife"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}
